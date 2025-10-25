@@ -10,24 +10,24 @@ design:
 
 sections:
   # Lab Members section 
-  - block: people
+  - block: collection
+    id: team
     content:
       title: "Meet the Team"
-      # Render members that belong to the following groups in their author profiles
-      user_groups:
-        - Principal Investigators
-        - Researchers
-        - Postdocs
-        - PhD Students
-        - Staff
-        - Alumni
+      text: ""
+      # Pull items from the authors directory
+      filters:
+        folders:
+          - authors
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Optional: order by last name if you set `last_name` in each author’s front matter
       sort_by: Params.last_name
       sort_ascending: true
     design:
-      show_role: true
-      show_organizations: true
-      show_interests: false
-      show_social: false
+      view: card    # safe, widely supported view
+      columns: 3
 
   - block: markdown
     content:
