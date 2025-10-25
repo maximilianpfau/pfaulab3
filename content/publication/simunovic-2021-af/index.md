@@ -1,0 +1,38 @@
+---
+title: Threshold versus intensity functions in two-colour automated perimetry
+authors:
+- Matthew P Simunovic
+- Kristina Hess
+- Neil Avery
+- Zaid Mammo
+date: '2021-01-01'
+publishDate: '2025-10-25T11:28:52.508269Z'
+publication_types:
+- article-journal
+publication: '*Ophthalmic Physiol. Opt.*'
+abstract: "PURPOSE: Two-colour computerised perimetry is a technique developed for
+  assessing cone- and rod-function at fixed background luminances in retinal disease.
+  However, the state of adaptation during testing is unknown but crucial in the interpretation
+  of results. We therefore aimed to determine the adaptational state of rod- and cone-mechanisms
+  in two-colour perimetry. METHODS: Sensitivity to 480 nm (blue) and 640 nm (red)
+  Goldmann size V targets was determined for 10 normal subjects aged 16 to 46 years
+  at 17 locations in the central 60 degrees of the visual field under scotopic conditions
+  and then from -1.5 log cd m-2 to 2 log cd m-2 (white background) in 0.5 log unit
+  steps. Data were fitted with threshold versus intensity (tvi) functions of the form
+  logT = logT0 + log ((A + A0 )/A0 )n . RESULTS: No clear rod-cone break was observed
+  for 640 nm stimuli. For 480 nm stimuli, transition from rod-detection to cone-detection
+  occurred at mesopic illumination levels, where rod adaptation approached Weber behaviour.
+  Cone detection mechanisms did not display Weber-like adaptation until the background
+  luminance approached 1 log cd.m-2 . Diseases resulting in a ``filter effect'' -
+  including disorders of the photoreceptors - are therefore predicted to affect sensitivity
+  when rod function is probed with short-wavelength targets under scotopic conditions,
+  but less so under mesopic conditions. Filter effects are similarly anticipated to
+  affect cone function measured using long-wavelength targets under mesopic conditions
+  (e.g., during microperimetry), but less so under photopic conditions. CONCLUSIONS:
+  Asymmetries in adaptation in automated two-colour perimetry are predicted to artefactually
+  favour the detection of losses in rod sensitivity under scotopic conditions and
+  cones under mesopic conditions."
+tags:
+- light adaptation; perimetry; retina; selective perimetry; threshold versus intensity
+  functions
+---
